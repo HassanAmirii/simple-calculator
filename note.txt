@@ -1,0 +1,23 @@
+# psuedo code
+
+take input of the first value: A
+    take input of the operator
+take input of the second value: B
+
+
+#add function goes here >>
+#subtract function goes here>>
+#multiply
+#divide
+#usage manual
+
+if operator == "+"
+ call  add (A + B)
+elif operator == "-"
+ call  subtract(A - B)
+elif operator == "/"
+  call divide(a/b)
+elif operator == "x"
+ call  multiply( a * b)
+else 
+  print(error)
